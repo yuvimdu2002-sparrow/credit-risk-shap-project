@@ -1,0 +1,1 @@
+{"n_rows":10000,"metrics":{"logreg":{"accuracy":0.988,"roc_auc":0.8686275123},"rf":{"accuracy":0.9888,"roc_auc":0.8429969056},"gb":{"accuracy":0.982,"roc_auc":0.8676533408}},"shap_used":false}
